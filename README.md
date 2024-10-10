@@ -75,7 +75,3 @@ ScreenAI Assistant is a macOS application that bridges user interactions with AI
 ## Conclusion
 
 ScreenAI Assistant showcases the integration of AI with desktop automation, providing a foundation that can be expanded to control various applications and system functionalities across your OS. This tool not only demonstrates proficiency in Python and macOS automation but also opens the door for innovative developments in AI-driven user interfaces.
-
----
-
-For more information or to contribute to the project, please visit the [GitHub Repository](https://github.com/yamadashy/repopack).
